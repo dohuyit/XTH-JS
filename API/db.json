@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "name": "Áo thun nam phong cách đẹp",
+      "image": "https://plus.unsplash.com/premium_photo-1724668132059-480d6a34bbf4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8",
+      "price": "100000",
+      "description": "đẹp quá",
+      "id": 1
+    },
+    {
+      "name": "Máy ảnh kĩ thuật số",
+      "image": "https://images.unsplash.com/photo-1719937206109-7f4e933230c8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyMXx8fGVufDB8fHx8fA%3D%3D",
+      "price": "100000",
+      "description": "đẹp",
+      "id": 2
+    },
+    {
+      "name": "Flycam cao cấp chất lượng tuyệt vời",
+      "image": "https://images.unsplash.com/photo-1719937051230-8798ae2ebe86?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxMTB8fHxlbnwwfHx8fHw%3D",
+      "price": "1245678",
+      "description": "Hàng chính hãng",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "huydonganh2005@gmail.com",
+      "password": "$2a$10$COb9dKbXc6TkOwSaIDqsOuN8u4T47qpY.EmLYEYHroL2PsdjOPo0u",
+      "name": "Đỗ Huy",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "Atv@gmail.com",
+      "password": "$2a$10$/CC5/npZxKt02xPQmsiO1eMIRi8b.4L4yZmj/6MqWzSJtkv1rryO.",
+      "name": "Trần Văn A",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "email": "Btv@gmail.com",
+      "password": "$2a$10$TjrX4FoXxKOMarWTPrD.K.U3e/82fAvdpU83lkbWud6uWGVNNB1ye",
+      "name": "Trần Văn B",
+      "role": "user",
+      "id": 3
+    }
+  ]
+}
